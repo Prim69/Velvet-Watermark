@@ -1,0 +1,14 @@
+﻿<Window x:Class="Velvet_Overlay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Velvet_Overlay"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStyle="None" AllowsTransparency="True" Background="Transparent" Topmost="True">
+    <Grid Opacity="0.505" Margin="1,1,0,0">
+        <StackPanel x:Name="MainPanel" Margin="5,115,5,132" Background="Red" Opacity="0.5"/>
+        <Label x:Name="MainText" Content="velvetpractice.live" HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" Height="112" Width="632" FontWeight="Bold" FontSize="72" Foreground="White" />
+
+    </Grid>
+</Window>

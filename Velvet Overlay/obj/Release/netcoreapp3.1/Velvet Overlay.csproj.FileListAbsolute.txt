@@ -1,0 +1,18 @@
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\bin\Release\netcoreapp3.1\Velvet Overlay.exe
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\bin\Release\netcoreapp3.1\Velvet Overlay.deps.json
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\bin\Release\netcoreapp3.1\Velvet Overlay.runtimeconfig.json
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\bin\Release\netcoreapp3.1\Velvet Overlay.runtimeconfig.dev.json
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\bin\Release\netcoreapp3.1\Velvet Overlay.dll
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\bin\Release\netcoreapp3.1\Velvet Overlay.pdb
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\MainWindow.g.cs
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\App.g.cs
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay_MarkupCompile.cache
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay_MarkupCompile.lref
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\MainWindow.baml
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.g.resources
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.AssemblyInfoInputs.cache
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.AssemblyInfo.cs
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.csproj.CoreCompileInputs.cache
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.dll
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.pdb
+Z:\Hashim\Desktop\Coding\C#\Velvet Overlay\Velvet Overlay\Velvet Overlay\obj\Release\netcoreapp3.1\Velvet Overlay.genruntimeconfig.cache
